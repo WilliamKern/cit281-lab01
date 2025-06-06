@@ -1,0 +1,15 @@
+1. Ctrl + C
+2. Ctrl + V
+3. Ctrl + X
+4. Ctrl + S
+5. Shift + Alt + A
+6. Ctrl + /
+7. Ctrl + Right Arrow
+8. Ctrl + Left Arrow
+9. Ctrl + Shift + Right Arrow
+10. Ctrl + Shift + Left Arrow
+11. Ctrl + A
+12. Home + Shift + End
+13. Home
+14. End
+15. Ctrl + Home
